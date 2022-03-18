@@ -1,0 +1,13 @@
+Rosca Nicolae 312CC
+
+Task 1 functii:
+init_node - initializeaza nodul
+recursive print- printeaza cerinta task 1 recursiv
+free_node - elibereaza nodul
+recursive_free - elibereaza recusrsiv toate nodurile
+construction tree - task 1 propriu-zis
+Task 2 functii:
+recursive_print_addres - printeaza recursiv adresele
+address_print - printeaza adresele
+add_addrs - adauga la adresele la nodul principal de la copii
+

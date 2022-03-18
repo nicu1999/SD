@@ -1,0 +1,18 @@
+Rosca Nicolae
+312CC
+
+Tema este implementat cu liste duble inlantuite, folosindu-se tipul de date
+intenger pentru "timestamp" si double pentru "date"
+Functii auxiliare:
+	-init_node : initializeaza un nod, care pointeaza spre null si are
+	timestamp-ul si data-ul setat la 0
+	-average: returneaza media aritmetica nodurilor intr-o fereastra
+	de k=5;
+	-deviation: calculeaza deviata standard
+	-copy_list: returneaza capul unei liste ce este identica cu parametrul
+	introdus
+	-middle: sorte datele din noduri dintr-o fereastra de dimensiune k=5 si
+	returneaza al 3-lea
+Main: in functia main() se citeste lista (o singura data), iar apoi este 
+	prelucrate de functiile e1, e2, etc.(daca sunt folosite argumentele)
+	si se printeaza list la sfarsit.
